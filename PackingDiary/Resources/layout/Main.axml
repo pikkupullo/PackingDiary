@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="10"
+        android:id="@+id/linearLayoutItems">
+        <Switch
+            android:text="Tatin viritys"
+            android:textSize="30px"
+            android:padding="30px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/switchHD"
+            android:onClick="switchClick" />
+        <Switch
+            android:text="Sliderin viritys"
+            android:textSize="30px"
+            android:padding="30px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/switchSlider" 
+            android:onClick="switchClick" />
+        <Switch
+            android:text="Repun tarkastus"
+            android:textSize="30px"
+            android:padding="30px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/switchBagCheck"
+            android:onClick="switchClick" />
+        <Switch
+            android:text="Loopin tarkastus"
+            android:textSize="30px"
+            android:padding="30px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/switchLoopCheck" 
+            android:onClick="switchClick" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayoutButtons">
+            <Button
+                android:text="Save"
+                android:id="@+id/buttonSave"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1" 
+                android:onClick="saveClick"
+                android:enabled="false"/>
+            <Button
+                android:text="Clear"
+                android:id="@+id/buttonClear"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1" 
+                android:onClick="clearClick"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

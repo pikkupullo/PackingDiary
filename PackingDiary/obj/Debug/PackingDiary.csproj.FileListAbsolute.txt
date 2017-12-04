@@ -1,0 +1,14 @@
+C:\Users\marko\Documents\Visual Studio 2017\Projects\PackingDiary\PackingDiary\bin\Debug\PackingDiary.dll
+C:\Users\marko\Documents\Visual Studio 2017\Projects\PackingDiary\PackingDiary\bin\Debug\PackingDiary.pdb
+C:\Users\marko\Documents\Visual Studio 2017\Projects\PackingDiary\PackingDiary\bin\Debug\PackingDiary.PackingDiary.apk
+C:\Users\marko\Documents\Visual Studio 2017\Projects\PackingDiary\PackingDiary\bin\Debug\PackingDiary.PackingDiary-Signed.apk
+C:\Users\marko\Documents\Visual Studio 2017\Projects\PackingDiary\PackingDiary\obj\Debug\PackingDiary.csproj.CoreCompileInputs.cache
+C:\Users\marko\Documents\Visual Studio 2017\Projects\PackingDiary\PackingDiary\obj\Debug\PackingDiary.dll
+C:\Users\marko\Documents\Visual Studio 2017\Projects\PackingDiary\PackingDiary\obj\Debug\PackingDiary.pdb
+C:\Users\marko\Documents\Visual Studio 2017\Projects\PackingDiary\PackingDiary\obj\Debug\android\bin\PackingDiary.PackingDiary.apk
+C:\Users\marko\Documents\Visual Studio 2017\Projects\PackingDiary\PackingDiary\obj\Debug\res\layout\main.xml
+C:\Users\marko\Documents\Visual Studio 2017\Projects\PackingDiary\PackingDiary\obj\Debug\res\values\strings.xml
+C:\Users\marko\Documents\Visual Studio 2017\Projects\PackingDiary\PackingDiary\obj\Debug\R.cs.flag
+C:\Users\marko\Documents\Visual Studio 2017\Projects\PackingDiary\PackingDiary\obj\Debug\uploadflags.txt
+C:\Users\marko\Documents\Visual Studio 2017\Projects\PackingDiary\PackingDiary\bin\Debug\PackingDiary.dll.mdb
+C:\Users\marko\Documents\Visual Studio 2017\Projects\PackingDiary\PackingDiary\obj\Debug\android\assets\PackingDiary.dll.mdb

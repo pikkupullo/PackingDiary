@@ -1,0 +1,4 @@
+PackingDiary.MainActivity, PackingDiary;md5c38085f4321e2a5351e9dbcd497ea332.MainActivity
+PackingDiary.MainActivity, PackingDiary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c38085f4321e2a5351e9dbcd497ea332.MainActivity
+PackingDiary.MainActivity;md5c38085f4321e2a5351e9dbcd497ea332.MainActivity
+packingdiary.MainActivity;md5c38085f4321e2a5351e9dbcd497ea332.MainActivity
